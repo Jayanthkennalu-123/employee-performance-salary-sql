@@ -6,6 +6,13 @@ The Employee Performance and Salary Analysis project aims to explore and analyze
 
 This project is crucial for businesses that want to make data-driven decisions regarding compensation, performance management, and employee retention strategies.
 
+Key Features:
+✔️ Data Cleaning & Transformation – Handling missing values, normalizing salary formats, and ensuring data consistency.
+✔️ Exploratory Data Analysis (EDA) – Generating key statistics and insights on salary trends, performance distributions, and departmental pay structures.
+✔️ Performance vs. Salary Correlation – Examining relationships between employee performance ratings and salary growth.
+✔️ Promotion & Salary Increase Analysis – Identifying patterns in promotions and their impact on salaries.
+✔️ Department-Wise Salary Breakdown – Comparing salaries across different departments and roles.
+✔️ SQL Queries & Stored Procedures – Implementing complex queries, joins, and aggregate functions for in-depth analysis.
 
 ### Analysis List
 
